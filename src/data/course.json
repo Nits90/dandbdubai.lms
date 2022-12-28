@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "img":"assets/images/courses1.jpg" 
+    },
+    {
+        "id":1,
+        "img":"assets/images/courses.jpg" 
+    },
+    {
+        "id":2,
+        "img":"assets/images/courses1.jpg" 
+    },
+    {
+        "id":3,
+        "img":"assets/images/courses.jpg" 
+    },
+    {
+        "id":4,
+        "img":"assets/images/courses1.jpg" 
+    },
+    {
+        "id":5,
+        "img":"assets/images/courses.jpg" 
+    }
+]
