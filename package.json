@@ -1,5 +1,6 @@
 {
   "name": "react-lms",
+  "homepage":"http://nitass.nestorbird.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
