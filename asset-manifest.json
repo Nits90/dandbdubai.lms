@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dandbdubai.lms/static/css/main.c92b5c61.css",
-    "main.js": "/dandbdubai.lms/static/js/main.afde736d.js",
-    "static/media/page-title.jpg": "/dandbdubai.lms/static/media/page-title.ba127805b954f8da1e9c.jpg",
-    "static/media/banner-bg.png": "/dandbdubai.lms/static/media/banner-bg.216c926e3d6d67869d32.png",
-    "index.html": "/dandbdubai.lms/index.html",
-    "main.c92b5c61.css.map": "/dandbdubai.lms/static/css/main.c92b5c61.css.map",
-    "main.afde736d.js.map": "/dandbdubai.lms/static/js/main.afde736d.js.map"
+    "main.css": "/static/css/main.8b9bb85a.css",
+    "main.js": "/static/js/main.afde736d.js",
+    "static/media/page-title.jpg": "/static/media/page-title.ba127805b954f8da1e9c.jpg",
+    "static/media/banner-bg.png": "/static/media/banner-bg.216c926e3d6d67869d32.png",
+    "index.html": "/index.html",
+    "main.8b9bb85a.css.map": "/static/css/main.8b9bb85a.css.map",
+    "main.afde736d.js.map": "/static/js/main.afde736d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c92b5c61.css",
+    "static/css/main.8b9bb85a.css",
     "static/js/main.afde736d.js"
   ]
 }
