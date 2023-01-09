@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dandbdubai.lms/static/css/main.c92b5c61.css",
+    "main.js": "/dandbdubai.lms/static/js/main.afde736d.js",
+    "static/media/page-title.jpg": "/dandbdubai.lms/static/media/page-title.ba127805b954f8da1e9c.jpg",
+    "static/media/banner-bg.png": "/dandbdubai.lms/static/media/banner-bg.216c926e3d6d67869d32.png",
+    "index.html": "/dandbdubai.lms/index.html",
+    "main.c92b5c61.css.map": "/dandbdubai.lms/static/css/main.c92b5c61.css.map",
+    "main.afde736d.js.map": "/dandbdubai.lms/static/js/main.afde736d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c92b5c61.css",
+    "static/js/main.afde736d.js"
+  ]
+}
